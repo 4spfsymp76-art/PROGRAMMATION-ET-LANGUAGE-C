@@ -1,0 +1,5 @@
+1
+malade
+infection
+1
+sick
